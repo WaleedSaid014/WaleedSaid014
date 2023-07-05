@@ -6,11 +6,9 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working on Safe Supply [Salel](https://al-emdad.sa)
-
+- 👯 I’m currently working on [Salla E-Commerce Platform](https://salla.com/)
+  
 - 🌱 I’m currently learning **Node js**
-
-- 👯 I’m currently working on Safe Supply [Al-emdad](https://al-emdad.sa)
 
 - 💬 Ask me about **PHP (Laravel)**
 
